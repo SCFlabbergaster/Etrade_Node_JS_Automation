@@ -1,0 +1,20 @@
+{
+  "name": "ETradeApp",
+  "description": "ETrade API",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "0.2.10",
+    "connect-mysql-session": "*",
+    "cron": "^1.2.1",
+    "ejs": "0.8.5",
+    "express": "3.x",
+    "moment": "^2.5.1",
+    "mysql": "^2.12.0",
+    "nodemailer": "0.6.1",
+    "oauth": "*",
+    "open": "0.0.5",
+    "request": "2.34.0",
+    "sequelize": "1.7.0"
+  }
+}
